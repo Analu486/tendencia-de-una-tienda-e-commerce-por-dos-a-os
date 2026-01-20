@@ -8,7 +8,7 @@ Objetivos específicos
 - Detectar la rotación de cantidad de venta de los SKUs comparandolos entre  los años 2024 y 2025.
 
 Análisis explorativo de Datos
-- Para realizar una exploración y visualización de datos acertada se importaron las librerias: pandas, matplotlib y seaborn
+- Para realizar una exploración y visualización de datos acertada se importaron las librerias: pandas para la manipulación y matplotlib y seaborn para las series temporales
 - Al contar con datos de origen en formato Excel (.xlsx) de los años 2024 y 2025 fue necesario cambiar de formato mediante la función melt
 - Posteriormente, se realizó un merge para juntar ambos archivos y poder comparar ambos años.
 - Como verificación del melt y merge se analizó un SKU (PAA-160) mediante un filtrado de columna
