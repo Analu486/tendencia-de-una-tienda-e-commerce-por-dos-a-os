@@ -1,10 +1,10 @@
-**Tendencia de una tienda  e-commerce por dos años consecutivos**
+**Análisis Predictivo y de Tendencias de Ventas E-commerce.**
 
 Objetivos generales
 - Identificar las tendencias de las ventas del mercado de comercialización de productos químicos industriales y alimentarios.
   
 Objetivos específicos
-- Visualización en gráfica de barras de las ventas de los productos que se expresan en SKU en función del tiempo (meses) de los años 2024 y 2025.
+- Visualización en gráfica de barras temporales de las ventas de los productos que se expresan en SKU en función del tiempo (meses) de los años 2024 y 2025.
 - Detectar la rotación de cantidad de venta de los SKUs comparandolos entre  los años 2024 y 2025.
 
 Análisis explorativo de Datos
@@ -20,3 +20,4 @@ Resultados
   
 Conclusiones
 - Es de alta importancia la calidad de los datos desde el origen, dado que así, se obtiene el análisis e interpretación de los resultados necesarios para comunicarlos de manera efectiva a stakeholders.
+- Se identificó que el 15% de los SKUs presentaban una tendencia creciente en el segundo semestre del año, recomendando su promoción para incentivar una mayor rotación de inventario
